@@ -31,9 +31,9 @@
 | Core Rules | 命名、参数置顶、可追溯性、单位显式、一致性的硬性风格条款 |
 | Script Structure | 0–8 段的固定脚本骨架 |
 | Naming Style | 六类对象命名对照表 |
-| Readability Rhythm | 版面节奏：换行、对齐、留白、反炫技 |
+| Readability Rhythm | 版面节奏：换行、对齐、留白、反炫技、尽量减少自定义函数（仅在多处复用时才抽函数） |
 | Narrative Requirements By Stage | 六个阶段各自的"要说清楚什么" |
-| Paths And Outputs | 路径只定义一次的写法 |
+| Paths And Outputs | 路径只定义一次的写法；Windows 中文路径的 locale 陷阱、几何有效性须按平面校验、标识列必须保持 character |
 | Review Checklist | 审查代码时按六档优先级报告 |
 | What This Skill Deliberately Does Not Specify | 显式留白清单 |
 
